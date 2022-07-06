@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=realme
+ro.product.system_ext.device=RMP2102
+ro.product.system_ext.manufacturer=realme
+ro.product.system_ext.model=Realme Pad Volte
+ro.product.system_ext.name=aosp_RMP2102
+ro.system_ext.build.date=Tue Jul  5 06:06:21 UTC 2022
+ro.system_ext.build.date.utc=1657001181
+ro.system_ext.build.fingerprint=realme/RMP2102/RE54C1L1:11/RP1A.200720.011/1648541055371:user/release-keys
+ro.system_ext.build.id=SQ3A.220605.009.A1
+ro.system_ext.build.tags=test-keys
+ro.system_ext.build.type=eng
+ro.system_ext.build.version.incremental=1657001232
+ro.system_ext.build.version.release=12
+ro.system_ext.build.version.release_or_codename=12
+ro.system_ext.build.version.sdk=32
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
